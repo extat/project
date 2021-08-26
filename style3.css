@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: xx-large;
+    background-image: url(../img/téléchargement.jpg);
+    background-size: cover;
+
+}
+.a_button{
+    
+        box-shadow: 10px 11px 12px 4px #899599;
+        background:linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
+        background-color:#ededed;
+        border-radius:42px;
+        display:inline-block;
+        cursor:pointer;
+        color:#000000;
+        font-family:Arial;
+        font-size:28px;
+        padding:18px 76px;
+        text-decoration:none;
+        text-shadow:0px 0px 0px #e1e2ed;
+    }
+    .a_button:hover {
+        background:linear-gradient(to bottom, #bab1ba 5%, #ededed 100%);
+        background-color:#bab1ba;
+    }
+    .a_button:active {
+        position:relative;
+        top:1px;
+    }
+    .aaa{
+        
+    }
+
